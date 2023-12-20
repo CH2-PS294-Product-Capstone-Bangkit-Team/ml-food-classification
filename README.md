@@ -1,1 +1,1 @@
-# ml-food-classification
+# food-classification
